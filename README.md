@@ -1,5 +1,3 @@
-# user-retention-analysis
-
 # Customer Retention Analysis – MSME Laundry Services
 
 ## 1. Project Overview
@@ -44,6 +42,8 @@ The analysis was conducted through four main stages:
 ## 3. Key Findings & Business Implications
 
 ### Key Finding: Customer Acquisition Decline During the University Holiday Period
+
+retention-chart.png
 
 New customer acquisition declined significantly toward the end of the observation period:
 
