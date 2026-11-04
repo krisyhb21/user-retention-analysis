@@ -43,7 +43,7 @@ The analysis was conducted through four main stages:
 
 ### Key Finding: Customer Acquisition Decline During the University Holiday Period
 
-retention-chart.png
+![Cohort Retention Heatmap](outputs/retention-chart.png)
 
 New customer acquisition declined significantly toward the end of the observation period:
 
@@ -57,8 +57,6 @@ New customer acquisition declined significantly toward the end of the observatio
 The decline continued from November through February, with January and February recording the lowest monthly acquisition figures.
 
 Furthermore, cohorts acquired before the holiday period, particularly October and November, experienced their lowest retention during the subsequent months.
-
-!(outputs/retention-chart.png)
 
 ### Business Implication: Academic Calendar-Driven Customer Behavior
 
