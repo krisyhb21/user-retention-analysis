@@ -58,6 +58,8 @@ The decline continued from November through February, with January and February 
 
 Furthermore, cohorts acquired before the holiday period, particularly October and November, experienced their lowest retention during the subsequent months.
 
+!(outputs/retention-chart.png)
+
 ### Business Implication: Academic Calendar-Driven Customer Behavior
 
 Located near a major university campus, the laundry business primarily serves students living in nearby boarding houses and residential areas.
