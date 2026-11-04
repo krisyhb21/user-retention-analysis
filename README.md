@@ -1,5 +1,7 @@
 # Customer Retention Analysis – MSME Laundry Services
 
+# Krisna Lathu Syahbana - Business Intelligence
+
 ## 1. Project Overview
 
 **Industry:** MSME – Laundry Services
